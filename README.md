@@ -36,6 +36,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
+# hotel-web-react-next
 
 # https://fontawesome.com/
-# npm install react-router-dom# hotel-web-react-next
+# npm install react-router-dom
+
+# $ npm install --save clsx
