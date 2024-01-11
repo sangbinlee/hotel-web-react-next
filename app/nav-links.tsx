@@ -21,11 +21,11 @@ export default function NavLinks() {
         },
         { 
             name:'About',
-            href:'about',
+            href:'/about',
         },
         { 
             name:'Contact',
-            href:'contact',
+            href:'/contact',
         },
 
     ]
